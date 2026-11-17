@@ -1,6 +1,9 @@
 # Vecchio progetto (solo riferimento locale, NON pubblicare)
 insightwheels-sviluppo/
 
+# Note private per Claude Code
+CLAUDE.local.md
+
 # Java / Maven
 target/
 *.class
